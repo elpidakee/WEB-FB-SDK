@@ -1,0 +1,22 @@
+{"data":
+	[
+		{
+			"category":"Local business",
+			"category_list":[{
+				"id":"163272113725616",
+				"name":"Advertising Service"
+			}],
+			"location":{
+				"street":"ΑΛΕΞΑΝΔΡΟΥ ΥΨΗΛΑΝΤΟΥ 101",
+				"city":"Patras",
+				"state":"",
+				"country":"Greece",
+				"zip":"26335",
+				"latitude":38.246577999127,
+				"longitude":21.739530497065
+			},
+			"name":"Patras Events",
+			"id":"284673061673142"
+		}
+	],
+"paging":{"next":"https:\/\/graph.facebook.com\/v2.3\/search?limit=400&type=place&q=patras+events&center=38.2466,21.7346&distance=1000&access_token=CAAF0nJnoSKMBAPrx156ruDanWhi19O3MnO66bwvA3dPhFJAV7fY1ZCaM7vVCfsWGRaanoXTwxjCkadoCwZAeMDS9tsip9tBlCczoI43jEc4SJ66K14fx25kuGPu68kzvT3oaWokWC0abLvkrkV3SKgT5CEKZBlaoiI7S73h1IBYcsHlyhMWcGJTICVdk88OIknldlXpZCRuoL1Q1ZBWQ8bfxGZAjuRtkr2oLEZA6GCuCAZDZD&offset=400&__after_id=enc_AdAH4hJqN3gkhZCH8zLKtJA9DPPYMdtody4z35IbeMnZAfOKX6hNNqYBVSWar4HxySa3HyiGOSNo5ZBnFjoZAdBiAFkD"}}
